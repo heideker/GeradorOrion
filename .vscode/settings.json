@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "__functional_03": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "thread": "cpp"
+    }
+}
